@@ -17,9 +17,9 @@ shares the same parameters (U, V, W) across all steps
 
 y = model.next_step(x, R)
 
-y - output
-x - input
-R - memory
+- y - output
+- x - input
+- R - memory
 
 ## LSTM = Long Short-Term Memory
 
